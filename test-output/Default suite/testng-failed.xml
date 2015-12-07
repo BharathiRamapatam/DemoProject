@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="tests.Test1">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="amazon_com"/>
+          <include name="launch"/>
+          <include name="packtPub"/>
+          <include name="afterMethod"/>
+          <include name="amazon_comSecondEdition"/>
+          <include name="oreilly_com"/>
+        </methods>
+      </class> <!-- tests.Test1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

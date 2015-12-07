@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demo Project Project" group-by-instances="true">
+
+
+
+<test name="Test 1">
+    <classes>
+        <class name="tests.Test1" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+
+</suite>
